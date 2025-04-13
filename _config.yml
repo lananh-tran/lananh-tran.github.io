@@ -7,17 +7,24 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Lan-Anh Tran's Website # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Lan-Anh (Clara) Tran
+headline: Research Assistant | Electrical Engineering student @ CSUC
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a sophomore majoring in Electrical and Electronics Engineering at California State University, Chico.
+  I'm currently working with Dr. Kendall Hall (Chico State) to analyze potential tracer gases for molecular hydrogen
+  in diffuse interstellar clouds. If I'm not working on the manuscript or writing Python programs for my research,
+  you can probably find me tinkering with my breadboard while trying to develop data-collecting systems for my Rocketry Club.
+
+  My prior experiences in scientific computing and amateur rocketry have taught me the importance of developing fast and efficient
+  electronic devices to other STEM disciplines. Therefore, I hope to contribute to the development of nanoelectronics,
+  focusing on energy-efficient transistors and high-performance computing architectures. I look forward to filling my next chapter
+  with research opportunities and internships in semiconductor and low-power electronic systems. Let’s connect if you also share
+  the same love for electronics!
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,15 +32,15 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: ./assets/resume/{Tran_Anh_Resume.pdf}
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: lananh-tran6    # https://www.linkedin.com/in/{your url slug} 
+  github: lananh-tran    # https://github.com/{your url slug} 
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
