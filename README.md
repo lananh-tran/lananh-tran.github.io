@@ -1,1 +1,1 @@
-Engineering portfolio of Lan-Anh Tran. Many thanks to _leea12_ for the wonderful template.
+Engineering portfolio of Lan-Anh Tran. Many thanks to [_leea12_](https://github.com/leea12/free-to-engineer-portfolio-template) for the wonderful template.
